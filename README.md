@@ -13,7 +13,7 @@ Libraries used are:
 - Run: `cargo run <search query> <api key>
 
 ## To generate an api key
-Register on (NewYork Times Website)[https://developer.nytimes.com/get-started]
+Register on [NewYork Times Website](https://developer.nytimes.com/get-started)
 
 ## Preview
 Note: The key here has been revoked. Create your own API key to test out this project.
